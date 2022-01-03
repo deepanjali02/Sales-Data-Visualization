@@ -1,5 +1,6 @@
 # Sales-Data-Visualization
 Sales data exploration with SQL and data visualization in PowerBI.
+![](https://github.com/deepanjali02/Sales-Data-Visualization/blob/main/Sales%20Insight%20POWERBI%20Reprots%20IMG.jpg)
 ## This is a portfolio project I made with a datasets of a computer hardware company. <br />
 ### *Problem Statement* - Computer Hardware manufacturer is facing issues in terms of their sales. <br/> <br/>
 
